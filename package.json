@@ -1,0 +1,20 @@
+{
+	"name": "todo_scan",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest --coverage",
+		"start": "node index.js"
+	},
+	"jest": {
+		"testMatch": [
+			"**/test/**/*.test.js"
+		]
+	},
+	"author": "wenle",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^27.0.6"
+	}
+}

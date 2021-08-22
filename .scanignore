@@ -1,0 +1,7 @@
+node_modules
+coverage
+.gitignore
+*-lock.json
+*.lock
+scan_report
+.scanignore
